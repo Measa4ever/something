@@ -1,0 +1,17 @@
+{
+ "name": "about.html",
+ "children": [
+  {
+   "title": "Page 1",
+   "id": "8fe9f211-ee73-dfed-b404-cb976a3046f6",
+   "pageId": "8fe9f211-ee73-dfed-b404-cb976a3046f6",
+   "type": "page"
+  },
+  {
+   "title": "Page 2",
+   "id": "7ec11763-a325-9cfa-3355-80baf5cb46a0",
+   "pageId": "7ec11763-a325-9cfa-3355-80baf5cb46a0",
+   "type": "page"
+  }
+ ]
+}
